@@ -33,6 +33,7 @@ public class MusicList extends AppCompatActivity {
     public String totalCount;
     Track[] tracks;
     static int tracksCount;
+    String str="Need T-shirt!";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
